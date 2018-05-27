@@ -36,7 +36,7 @@ Getting Started
 Setup the Dropbox App
 ----------------------
 
-- To create a Dropbox App and Page, Login to your Dropbox account and follow this [steps](https://www.dropbox.com/developers/apps/create).
+- To create a Dropbox App, Login to your Dropbox account and follow this [steps](https://www.dropbox.com/developers/apps/create).
 - Go to https://www.dropbox.com/h
 - Create a folder called KasiChat and a file called chat.txt inside the KasiChat folder
 
