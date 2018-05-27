@@ -55,6 +55,7 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
+*.DS_Store
 
 # Flask stuff:
 instance/
@@ -81,10 +82,14 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+# Chat file
+chat.txt
+
 # Environments
 .env
 .venv
 env/
+ve/
 venv/
 ENV/
 env.bak/
